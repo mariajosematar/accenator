@@ -1,0 +1,26 @@
+body {
+    background-image: url(../Akinator-Accenture/Usi.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    color: #FFFF;
+    height: 50vh;
+    margin: 5%;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    display: flexbox;
+    justify-content: center;
+}
+.imgAki{
+    display: flex;
+    justify-content: center;
+}
+img{
+    justify-content: center;  
+}
